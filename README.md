@@ -17,3 +17,6 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/tu_usuario/CatPhotoApp.git
+![cat form image](https://github.com/santiagoprogramador99/Catshop/assets/112513439/f1e826a0-e3b7-4518-ae9b-d5b15d08222c)
+![Uploading cat shop images.png…]()
+
